@@ -12,6 +12,7 @@ He states that the key to understanding and solving software interview problems 
             return 1
 
         def factorial(n):
+            #bottom-up approach
             #1, 2, 3, 4..., (n-1), n
             i = 1
             res = 1
